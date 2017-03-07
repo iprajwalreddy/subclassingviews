@@ -15,6 +15,7 @@
 		E6E18F0D1E6F243C005B4489 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6E18F0B1E6F243C005B4489 /* LaunchScreen.storyboard */; };
 		E6E18F181E6F243C005B4489 /* custom_viewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E18F171E6F243C005B4489 /* custom_viewTests.swift */; };
 		E6E18F231E6F243C005B4489 /* custom_viewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E18F221E6F243C005B4489 /* custom_viewUITests.swift */; };
+		E6E18F311E6F25DA005B4489 /* BlueButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E18F301E6F25DA005B4489 /* BlueButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E6E18F1E1E6F243C005B4489 /* custom-viewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "custom-viewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6E18F221E6F243C005B4489 /* custom_viewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = custom_viewUITests.swift; sourceTree = "<group>"; };
 		E6E18F241E6F243C005B4489 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6E18F301E6F25DA005B4489 /* BlueButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E6E18F091E6F243C005B4489 /* Assets.xcassets */,
 				E6E18F0B1E6F243C005B4489 /* LaunchScreen.storyboard */,
 				E6E18F0E1E6F243C005B4489 /* Info.plist */,
+				E6E18F301E6F25DA005B4489 /* BlueButton.swift */,
 			);
 			path = "custom-view";
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				E6E18F051E6F243C005B4489 /* SecondViewController.swift in Sources */,
 				E6E18F011E6F243C005B4489 /* AppDelegate.swift in Sources */,
 				E6E18F031E6F243C005B4489 /* FirstViewController.swift in Sources */,
+				E6E18F311E6F25DA005B4489 /* BlueButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
